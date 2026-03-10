@@ -1,0 +1,1 @@
+CREATE INDEX softwarecompany.idx_emp_name ON softwarecompany.employees(emp_name);
